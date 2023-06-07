@@ -1,4 +1,10 @@
 /* styles */
+body {
+    background: blue;
+}
+div {
+    color: aqua;
+}
 p {
     color: red;
     padding: 2px;
